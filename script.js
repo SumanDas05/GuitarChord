@@ -1,0 +1,1 @@
+console.log("GuitarChord app.js loaded successfully ✅");
