@@ -1,5 +1,7 @@
 // ===== MOBILE NAVIGATION TOGGLE =====
-
+// ===== TEST: confirm chord data loaded correctly =====
+console.log("Chord data loaded:", chords);
+console.log("Example — C major chord object:", chords.C);
 // "Select" the two elements we need: the button and the menu itself
 const hamburgerBtn = document.getElementById("hamburgerBtn");
 const navLinks = document.getElementById("navLinks");
